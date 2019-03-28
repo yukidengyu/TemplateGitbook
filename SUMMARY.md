@@ -25,7 +25,7 @@
 * [第八章](chapter08/README.md)
    * [第一节](chapter08/note01.md)
    * [第二节](chapter08/note02.md)
-* [备注](ps/note01s.md)
+* [备注](ps/notes.md)
 * [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
 * [后记](end/postscript.md)
